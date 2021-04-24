@@ -40,7 +40,7 @@ button{
     border-color: transparent;
     font-weight: bolder;
     color: white;
-    background-color: blueviolet;
+    background-color: red;
     border: none;
     margin-left: 10px;
     outline: none;
@@ -52,7 +52,7 @@ ol{
     margin-top: 30px;
 }
 ol li{
-    padding-left: 0px;
+    padding-left: 30px;
     text-align: left;
     font-size: 20px;
     font-weight: 500;
